@@ -1,0 +1,2 @@
+add_lunch_combo omni_ios6753_35gt_b_l1-eng
+add_lunch_combo omni_ios6753_35gt_b_l1-userdebug
